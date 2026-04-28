@@ -40,7 +40,7 @@ Projenin temelinde performans, güvenlik ve ölçeklenebilirlik odaklı modern b
 ### 🖥️ Kullanıcı Arayüzü (Frontend)
 | Anasayfa & Slider | Hizmetler & Blog | Randevu & İletişim |
 | :---: | :---: | :---: |
-| ![Anasayfa](https://via.placeholder.com/400x250?text=Anasayfa+Görseli) | ![Hizmetler](https://via.placeholder.com/400x250?text=Hizmetler+Görseli) | ![Randevu](https://via.placeholder.com/400x250?text=Randevu+Sayfası) |
+| ![Anasayfa](<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/b07aea43-9412-4f28-aa1c-13e95c4a9f1a" />) | ![Hizmetler](https://via.placeholder.com/400x250?text=Hizmetler+Görseli) | ![Randevu](https://via.placeholder.com/400x250?text=Randevu+Sayfası) |
 
 ### ⚙️ Yönetim Paneli (Admin)
 | Randevu Yönetimi | Blog & İçerik Yönetimi | Site Ayarları |
