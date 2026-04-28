@@ -35,17 +35,35 @@ Projenin temelinde performans, güvenlik ve ölçeklenebilirlik odaklı modern b
 
 ## 📸 Ekran Görüntüleri
 
-*Aşağıdaki alanlara projenizin canlı görsellerini ekleyerek portfolyonuzu güçlendirebilirsiniz.*
-
 ### 🖥️ Kullanıcı Arayüzü (Frontend)
-| Anasayfa & Slider | Hizmetler & Blog | Randevu & İletişim |
-| :---: | :---: | :---: |
-| ![Anasayfa](<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/b07aea43-9412-4f28-aa1c-13e95c4a9f1a" />) | ![Hizmetler](https://via.placeholder.com/400x250?text=Hizmetler+Görseli) | ![Randevu](https://via.placeholder.com/400x250?text=Randevu+Sayfası) |
+
+[Anasayfa] 
+<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/b07aea43-9412-4f28-aa1c-13e95c4a9f1a" />
+
+---
+[Hizmetler]
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/485bae82-4383-4e01-839f-31bbaa75ee7a" />
+
+---
+[Randevu]
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/780679a6-8d31-477e-ace6-2aa0a00b8ded" />
+
+
+---
 
 ### ⚙️ Yönetim Paneli (Admin)
-| Randevu Yönetimi | Blog & İçerik Yönetimi | Site Ayarları |
-| :---: | :---: | :---: |
-| ![Admin Panel](https://via.placeholder.com/400x250?text=Randevu+Yönetimi) | ![Blog Yönetimi](https://via.placeholder.com/400x250?text=İçerik+Yönetimi) | ![Ayarlar](https://via.placeholder.com/400x250?text=Genel+Ayarlar) |
+
+[Admin Panel]
+<img width="1919" height="577" alt="image" src="https://github.com/user-attachments/assets/3cabc66e-794c-4219-a9ff-17967e0b4424" />
+
+---
+[Blog Yönetimi]
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/c5b14671-96a5-4e9e-abff-661dbbc141b5" />
+
+---
+[Mesaj Kutusu]
+<img width="1919" height="584" alt="image" src="https://github.com/user-attachments/assets/7e13a4c5-a542-4b30-bb09-74ec75e383b8" />
+
 
 ---
 
@@ -54,5 +72,3 @@ Projenin temelinde performans, güvenlik ve ölçeklenebilirlik odaklı modern b
 Bu proje, bir sağlık profesyonelinin tüm ihtiyaçlarını karşılayacak şekilde optimize edilmiştir. Sadece bir tanıtım sitesi değil, aynı zamanda veri yönetimi ve danışan etkileşimi sağlayan yaşayan bir sistemdir. ASP.NET Core'un gücüyle geliştirilen bu yapı, yüksek güvenlik ve hız standartlarına sahiptir.
 
 ---
-
-**İletişim & Portfolyo:** [GitHub Profiliniz](https://github.com/KullaniciAdiniz) | [LinkedIn](https://linkedin.com/in/KullaniciAdiniz)
